@@ -21,4 +21,4 @@ go build
 ./mandelbrot
 ```
 
-Updated from Windows
+Updated from Windows 2

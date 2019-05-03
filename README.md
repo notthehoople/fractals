@@ -21,3 +21,4 @@ go build
 ./mandelbrot
 ```
 
+Updated from Windows
